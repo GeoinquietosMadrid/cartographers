@@ -1,5 +1,7 @@
 # Cartógrafos
 
+## http://bit.ly/geoinq-cartografos
+
 Diapositivas y videos de las charlas de Cartógrafos de GeoInquietos Madrid.
 
 * Cartógrafos I: **Mamata Akella (CARTO)**: [slides](https://drive.google.com/open?id=1lEtbtMvpn6MAnwzcv748SHzl1XZE3Cwu6Nc8NKAWceU) & [video](https://vimeo.com/209715687) (la imagen empieza alrededor del minuto 10)
